@@ -1,0 +1,13 @@
+user_id|latitude|longitude|battery|active
+sid |28.546050 |77.273182 | 10 | yes
+akshat |28.546040 |77.273212 | 50 | yes
+apoorv |22.23322 |77.382363 | 60 | yes
+devang |28.545870 |77.273086 | 70 | yes
+nidhi |28.545850 |77.273110 | 90 | yes
+sonali |28.545875 | 77.273116|95|yes
+aman |28.546051 |77.273185 | 10 | yes
+ishita |28.546042 |77.273222 | 50 | yes
+apoorv |22.23342 |77.382373 | 60 | yes
+pranav |28.545875 |77.273026 | 70 | yes
+niharika |28.545855 |77.273117 | 90 | yes
+nikita |28.545879 | 77.273126|95|yes
